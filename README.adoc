@@ -1,3 +1,6 @@
+== spring-cloud-contract-raml is no longer actively maintained by VMware, Inc.
+
+
 image::https://badges.gitter.im/Join%20Chat.svg[Gitter, link="https://gitter.im/spring-cloud/spring-cloud-contract?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 image::https://codecov.io/gh/spring-cloud-incubator/spring-cloud-contract-raml/branch/master/graph/badge.svg["codecov", link="https://codecov.io/gh/spring-cloud-incubator/spring-cloud-contract-raml"]
 image::https://circleci.com/gh/spring-cloud-incubator/spring-cloud-contract-raml.svg?style=svg["CircleCI", link="https://circleci.com/gh/spring-cloud-incubator/spring-cloud-contract-raml"]
